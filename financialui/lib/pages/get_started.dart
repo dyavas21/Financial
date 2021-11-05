@@ -46,7 +46,7 @@ class GetStarted extends StatelessWidget {
               right: 30,
             ),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 GestureDetector(
                   onTap: () {
